@@ -1,0 +1,5 @@
+{
+  "name": "auto-model",
+  "owner": { "name": "leeruji" },
+  "plugins": [{ "name": "auto-model", "source": "./" }]
+}
